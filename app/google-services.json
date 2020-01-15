@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815742652961",
+    "firebase_url": "https://nice-root-185903.firebaseio.com",
+    "project_id": "nice-root-185903",
+    "storage_bucket": "nice-root-185903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815742652961:android:a2be5843337e7f02b3c960",
+        "android_client_info": {
+          "package_name": "com.ppsi.getfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815742652961-ji2bu1mvv7nh82voai0861jmcith4cad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOcYSlnGiRT-XgsuA6y1cowBA6wv346ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815742652961-ji2bu1mvv7nh82voai0861jmcith4cad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
